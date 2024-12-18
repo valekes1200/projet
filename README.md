@@ -52,3 +52,5 @@ Détails du fichier CSS
 
     Responsive Design :
         Grâce à l’utilisation de media queries, le site est entièrement réactif. Les éléments s'ajustent pour s’adapter aux différentes tailles d'écran, de l'ordinateur de bureau à la tablette, en passant par le smartphone.
+
+https://valekes1200.github.io/projet/
